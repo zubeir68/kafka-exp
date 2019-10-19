@@ -1,0 +1,22 @@
+{
+  "name": "kafka-exp",
+  "version": "1.0.0",
+  "description": "Simple kafka experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zubeir68/kafka-exp.git"
+  },
+  "author": "Zubeir Mohamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zubeir68/kafka-exp/issues"
+  },
+  "homepage": "https://github.com/zubeir68/kafka-exp#readme",
+  "dependencies": {
+    "kafka-node": "^4.1.3"
+  }
+}
